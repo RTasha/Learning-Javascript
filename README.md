@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>My First JS Boilerplate</title>
+        <title>This is my first look at javascript</title>
     </head>
     <body>
         <script type='text/javascript'>
