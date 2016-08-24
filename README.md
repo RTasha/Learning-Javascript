@@ -6,7 +6,7 @@
     </head>
     <body>
         <script type='text/javascript'>
-        alert('Write any message here')
+        console.log('Write anything here')
         </script>
     </body>
 </html>
